@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcodina&psig=AOvVaw2rPzboX0uopWc0_0sQqnfk&ust=1741256519836000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiYtNXc8osDFQAAAAAdAAAAABAE"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/200w.gif?cid=6c09b952oe9s4cfu7jfoimpn518ru01t0br0cjgaemwxdobh&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 
